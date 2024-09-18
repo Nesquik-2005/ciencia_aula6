@@ -1,0 +1,10 @@
+header{
+    background-color: rgba(213, 104, 27, 0.871);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+img{
+    border-radius: 70%;
+}
